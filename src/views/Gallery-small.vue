@@ -8,39 +8,19 @@
           v-for="x in data.items"
           :key="x.id"
         >
-          <div class="card shadow rounded">
-            <img :src="getImage(x.id)" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h6 class="card-title">
-                <small>{{ x.id }} - {{ x.name }}</small>
-              </h6>
-              <!-- <p class="card-text">
-                {{ x.description }}
-              </p> -->
-            </div>
-          </div>
+          <display :showdescription="Boolean(false)" :item="x" />
         </div>
       </div>
     </div>
   </div>
 </template>
 <script>
-import { dataconfig } from "@/services/helper";
+import display from "@/components/display.vue";
+
 export default {
   name: "gallerysmall",
-  data: () => ({
-    data: []
-  }),
-  methods: {
-    load: async function() {
-      this.data = await dataconfig();
-    },
-    getImage: function(id) {
-      return "img/" + id + ".jpg";
-    }
-  },
-  created: async function() {
-    this.load();
+  components: {
+    display
   }
 };
 </script>

@@ -3,6 +3,7 @@ import VueRouter from "vue-router";
 import GalleryBig from "../views/Gallery-big.vue";
 import GalleryMedium from "../views/Gallery-medium.vue";
 import GallerySmall from "../views/Gallery-small.vue";
+import Player from "../views/Player.vue";
 
 Vue.use(VueRouter);
 
@@ -26,6 +27,11 @@ const routes = [
     path: "/small",
     name: "Small",
     component: GallerySmall
+  },
+  {
+    path: "/player/:id",
+    name: "Player",
+    component: Player
   }
 ];
 
