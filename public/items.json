@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 2,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 3,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 4,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 5,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 6,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 7,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 8,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 9,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 10,
+      "name": "Coming soon",
+      "description": "",
+      "bonus": ""
+    },
+    {
+      "id": 11,
+      "name": "Jack Michael Martínez",
+      "description": "El “Travieso” 11 es Jack Michael Martínez, único en la historia con JMV y Novato del Año el mismo torneo (2000), con promedios de 17.6 puntos y 15.0 rebotes. En 2002 rompe su récord, promediando 16.2 por juego y captura el récord de 32 rebotes en un partido.",
+      "bonus": "Jack Michael Martínez es el único jugador dominicano en el Superior del Distrito Nacional que ha teñido temporadas de más de 20 puntos y 15 rebotes."
+    },
+    {
+      "id": 12,
+      "name": "José (Boyón) Domínguez",
+      "description": "El “Travieso” 12 es José (Boyón) Domínguez, el rey de las asistencias. Posee una de las marcas sagradas con 793 pases para canasta. Alma de la dinastía mauriciana de los 80. Único con 10 torneos de 50 o más asistencias. JMV en 1984. Siete lideratos de asistencias.",
+      "bonus": ""
+    },
+    {
+      "id": 13,
+      "name": "Manuel (Mañén) Fortuna",
+      "description": "El “Travieso” 13 es Manuel (Mañén) Fortuna, quien ha ganado el 50% de sus torneos jugados. Campeón con Los Mina (2004 y 2007), Huellas (2010), Bameso (2011) y Barias (2009, 2017 y 2019). Ha ido a 10 finales en sus últimos 12 torneos. 13.6 puntos en su carrera.",
+      "bonus": ""
+    },
+    {
+      "id": 14,
+      "name": "Frank Prats",
+      "description": "El “Travieso” 14 es Frank Prats. Debuta con Naco en 1974 con 12.5 puntos y 8.9 rebotes. De lo mejor anotando, rebotando, pasando y defendiendo. Su mejor torneo en 1977 con 20.8 ppj y 12.3 rpj. 6to en rebotes (1,196). Se retira con San Carlos ganando en 1987 y 88.",
+      "bonus": ""
+    },
+    {
+      "id": 15,
+      "name": "Miguel (Pepe) Rozón",
+      "description": "El “Travieso” 15 es Miguel (Pepe) Rozón, que jugó todas las posiciones y muy bien. Miembro del Big 3 lazareño con Hugo y Manolito. En su primer torneo promedió 17.8 ppj y 10.1 rpj. Durante su carrera solo se perdió 5 partidos. Campeón con San Lázaro en 1974 y 1976.",
+      "bonus": ""
+    },
+    {
+      "id": 16,
+      "name": "Joel Ramírez",
+      "description": "El “Travieso” 16 es Joel Ramírez. Nadie ha dominado la posición 1 por tanto tiempo en el VTS como él. Tiene el record de más coronas con equipos diferentes con 5: Los Mina (2004), Naco (2006), San Lázaro (2008), Huellas del Siglo (2010) y Barias (2009, 13 y 17).",
+      "bonus": ""
+    },
+    {
+      "id": 17,
+      "name": "Eduardo Gómez",
+      "description": "El “Travieso” 17 es Eduardo Gómez, quien llega a mediado de los años 70 desde New York. Este pequeño gigante fue un referente del VTS. Terminó su carrera con media de 13.7 puntos por juego. 1 de 4 que han anotado 50 o más. Nunca pudo ganar un torneo en el superior.",
+      "bonus": ""
+    },
+    {
+      "id": 18,
+      "name": "Jesús (Chu) Mercedes",
+      "description": "El “Travieso” 18 es Jesús (Chu) Mercedes. Pocos en los 80s metieron tantas pelotas como él. Top 10 en puntos de la historia. Terminó su carrera con una media de 17.5 puntos. Su mejor año, 1988 con Los Mina, cuando promedió 23.5 ppj. Campeón con MB en 1984, 85 y 86.",
+      "bonus": ""
+    },
+    {
+      "id": 19,
+      "name": "Víctor Chacón",
+      "description": "El “Travieso” 19 es Víctor Chacón. 15 temporadas de cifras dobles en puntos y promedios de por vida de 11.6 ppj y 5.6 rpj. 6to en puntos (3,285), 3ro en rebotes (1,577) y 4to en bloqueos (193). Campeón con Arroyo Hondo (1983 y 1990) y San Lázaro (1995 y 1996).",
+      "bonus": ""
+    },
+    {
+      "id": 20,
+      "name": "Carlos Martínez",
+      "description": "El “Travieso” 20 es Carlos Martínez, quien en 1988 debutó con canasto a Hugo Cabrera, que lo convirtió en “El Novato”. Jugó en 4 décadas diferentes. Tuvo una carrera de 22 torneos. Top 10 en puntos, rebotes, bloqueos y robos. Campeón con Los Prados en 1994 y 2005.",
+      "bonus": ""
+    },    
+    {
+      "id": 21,
+      "name": "Alfred (Tito) Horford",
+      "description": "El “Travieso” 21 el Alfred (Tito) Horford, nuestro primer NBA. Terminó su carrera con media de 11.3 puntos y 7.3 rebotes. Líder de todos los tiempos en bloqueos con 389. Tuvo 15 tapones (récord nacional) en el partido 7 de la final de 1994 contra San Carlos.",
+      "bonus": "“El más subestimado del baloncesto dominicano. Tito ha sido el mejor jugador defensivo de nuestro baloncesto. Si se llevarán las estadísticas de bolas desviadas Tito fuera el mejor por mucho de la historia. Era muy fácil defender sabiendo que Tito estaba detrás de ti” Junior Gil."
+    },
+    {
+      "id": 22,
+      "name": "Manuel Guzmán",
+      "description": "El “Travieso” 22 es Manuel Guzmán, con medias de 14.6 puntos y 8.6 rebotes en su carrera, es parte de la crema y nata del superior. JMV 2010 y 2017. Es 1 de 3 jugadores con 2 o más temporadas de 20 y 10 en el Palacio.",
+      "bonus": "Manuel Guzmán y Evaristo Pérez son los únicos jugadores con 5 o más temporadas de cifras dobles en rebotes en el baloncesto superior del Distrito Nacional. “Manuel Guzmán es un tipo que siempre corre sistemas, ofensivo y juega en equipo. Siempre me gustaría tener un jugador así en mis equipos” José Pérez actual dirigente del club Huellas del Siglo.Desde el año 2012 a la fecha, Manuel Guzmán es dueño del mejor promedio en puntos 21.8 y rebotes 8.5 del Superior del Distrito Nacional."
+    },
+    {
+      "id": 23,
+      "name": "Winston Royal",
+      "description": "El “Travieso” 23 es Wiston Royal, quien debuta con Naco en 1976 y de inmediato mostró su poder ofensivo en el superior. Tras 10 torneos con los naqueños, pasa a jugar con el Mauricio Báez con quienes gana campeonato en (1986).",
+      "bonus": "“Cuando no existía líneas de tres puntos, este tipo la tiraba de muy lejos, pienso que esa línea la inventaron por él. Para mí el mejor tiro de salto que ha tenido la casa de Don Virgilio” José Molina ex selección nacional de baloncesto."
+    },
+    {
+      "id": 24,
+      "name": "Héctor Báez",
+      "description": "El “Travieso” 24 es Héctor Báez, quien debutó en 1974 en el distrital. Desde su segundo torneo, hasta su retiro en 1991, siempre logró cifras dobles en puntos. “El Toro” promedió 12.8 puntos y 5.3 rebotes. Campeón con San Lázaro en 1974, 76 y 91 y San Carlos en 1987.",
+      "bonus": "Cuando no existía líneas de tres puntos, este tipo la tiraba de muy lejos, pienso que esa línea la inventaron por él. Para mí el mejor tiro de salto que ha tenido la casa de Don Virgilio” José Molina ex selección nacional de baloncesto."
+    },
+    {
+      "id": 25,
+      "name": "José Molina",
+      "description": "El “Travieso” 25 es José Molina, el mauriciano con más trofeos de TBS. Debutó en 1984  y JMV en 1992. Campeón 1984, 1985, 1986, 1999 y 2000, todas con Villa Juana. 11.5 puntos de por vida. 10mo en rebotes y 8vo en bloqueos. 1 de 5 con 2,500 pts 1,000 rebs y 100 blks.",
+      "bonus": ""
+    },
+    {
+      "id": 26,
+      "name": "Pedro Leandro Rodríguez",
+      "description": "El “Travieso” 26 es Pedro Leandro Rodríguez, un caballero de la consistencia. Debuta en 1978, con Eugenio Perdomo, y hasta el final de su carrera, mantuvo promedio de cifras dobles en anotación en el VTS. Se retira como campeón con el club Los Mina en 1993.",
+      "bonus": "“Era un jugador que combinaba fuerza y estatura, podía jugar de frente y espalda al aro, muy inteligente y consistente, Pedro Leandro se concentraba siempre en hacer su trabajo y lo hizo” Ramón Aybar, ex jugador y ex-Presidente de Panteras en Lidoba."
+    },
+    {
+      "id": 27,
+      "name": "Mauricio Espinal",
+      "description": "El “Travieso” 27 es Mauricio Espinal. Un francotirador. Tuvo promedio de 15.8 puntos y es imposible olvidar sus disparos tras las pantallas de Evaristo. Campeón en 1987, 88, 89 y 97. Anotó 245 triples, para 36% detrás del arco.",
+      "bonus": ""
+    },
+    {
+      "id": 28,
+      "name": "Héctor (Junior) Gil",
+      "description": "El “Travieso” 28 es Héctor (Junior) Gil. De los interiores más fino de nuestro baloncesto. Entre 1988 y 98 fue de los más consistentes postes del superior, promediando sobre 14 puntos y 5 rebotes. Caballero dentro y fuera de la cancha. Campeón con Los Prados en 1994.",
+      "bonus": "“El mejor tiro de media distancia que ha tenido el palacio de los deportes, uno de los jugadores más fuertes que he visto, la gente olvida que quien defendía a Grillo y los refuerzos fuertes, realmente era Junior” Tito Horford."
+    },
+    {
+      "id": 29,
+      "name": "Domingo Rosario",
+      "description": "El “Travieso” 29 es Domingo Rosario. El “Jordan” dominicano, una sensación en el Palacio entre 1984 y 1995. Con 11 temporadas de cifras dobles en puntos. Parte importante de los campeonatos de Villa Juana del 1984, 85 y 86. Las lesiones afectaron mucho su carrera.",
+      "bonus": ""
+    },
+    {
+      "id": 30,
+      "name": "Mario (Lolo) Regús",
+      "description": "El “Travieso” 30 es Mario (Lolo) Regús, de los más aguerridos del Virgilio. Entre 1988 y 1997 siempre anotó cifras dobles. Su mejor temporada en 1990 con 14.8 ppj y 2.6 apj. Terminó su carrera con 433 asistencias. Campeón con San Carlos en 1987, 88, 89 y 97.",
+      "bonus": ""
+    },
+    {
+      "id": 31,
+      "name": "Carlos Paniagua",
+      "description": "El “Travieso” 31 es Carlos Paniagua, con 17 canpañas y sobre 10 puntos y 6 rebotes de por vida. Solo Vinicio y Evaristo, con 15 años o más, tienen sus números. 2do en bloqueos (328) y 4to en rebotes (1,346). Campeón con MB (1999 y 2000), Naco (2006) y Bameso (2012).",
+      "bonus": "“Uno de los grandes competidores que he manejado, con el tiempo se hizo muy inteligente en el juego, uno de los mejores defensores aéreos y de ayuda que he visto, Paniagua era un enfermo con el juego de equipo” Melvyn López Coach de la selección dominicana de baloncesto."
+    },
+    {
+      "id": 32,
+      "name": "Ismael (El Yoyo) Tapia",
+      "description": "El “Travieso” 32 es Ismael (El Yoyo) Tapia, único jugador de la posición 2 de nuestro baloncesto con más de 400 asistencias, además de promediar cifras dobles en puntos a lo largo de su carrera. Campeón con la maquinaria sancarleña en 1979, 80, 81, 82, 87, 88 y 89.",
+      "bonus": ""
+    },
+    {
+      "id": 33,
+      "name": "Hansel Salvador",
+      "description": "El “Travieso” 33 es Hansel Salvador. “Kikima” fue en un momento el dueño del Palacio. JMV en 2004 y 2008. Ha promediado cifras dobles en puntos en 13 de sus 16 temporadas. Dos puntos negativos: nunca ha ganado campeonato distrital y ni ha estado con la selección.",
+      "bonus": ""
+    },
+    {
+      "id": 34,
+      "name": "Eladio (Yayo) Almonte",
+      "description": "El “Travieso” 34 es Eladio (Yayo) Almonte. De los más queridos en el superior. En los 90s se convirtió en una sensación. Sus limitaciones físicas no impidieron mantenerse al más alto nivel. Jugador de cifras dobles toda su carrera. Campeón en 1999 con Mauricio Báez.",
+      "bonus": "Yayo Almonte es el único jugador de Santiago que ha ganado un MVP en el superior del Distrito Nacional, lo hizo en la temporada de 1996."
+    },
+    {
+      "id": 35,
+      "name": "Héctor (Vikingo) Monegro",
+      "description": "Nuestro “Travieso” 35 es Héctor (Vikingo) Monegro, quien fue de los que trajo el show del Eugenio a la casa de Don Virgilio. En su primera temporada tuvo 19.1 puntos y 8.7 rebotes por partido. Miembro de cuatro campeonatos seguidos de San Carlos (78, 79, 80 y 81).",
+      "bonus": ""
+    },
+    {
+      "id": 36,
+      "name": "Luis Flores",
+      "description": "El “Travieso” 36 es Luis Flores. Este ex NBA, debutó en el 2000 con MB. Mantiene un promedio de por vida de 17.8 puntos. Es el JMV de mayor edad al conseguirlo en 2019 con 38 años. Campeón con MB en 2000, Naco en 2006 y San Lázaro en 2008.",
+      "bonus": ""
+    },
+    {
+      "id": 37,
+      "name": "Okary Lendeborg",
+      "description": "El “Travieso” 37 es Okary Lendeborg. Campeón con San Carlos (1997), Villa Fca (2002) y San Lázaro (2008). Dueño de la marca de más robos en un juego con 10 (28 de mayo 2006) vs Calero. En 2004, realiza el primer triple-doble con puntos, rebotes y asistencias del TBS.",
+      "bonus": ""
+    },
+    {
+      "id": 38,
+      "name": "Felipe (Jey) Payano",
+      "description": "El “Travieso” 38 lo es Felipe (Jey) Payano. Tuvo el mejor promedio de puntos de jugadores de la posición 4 entre los años 1987 y 1992 con 17.5 por partido. Campeón en 1983 y 1990 con Arroyo Hondo y 1994 con Los Prados.",
+      "bonus": ""
+    },
+    {
+      "id": 39,
+      "name": "Ramón (Montante) Castillo",
+      "description": "El “Travieso” 39 es Ramón (Montante) Castillo. Uno de los grandes del superior que no participó con la selección. Miembro de la maquinaria del Mauricio Báez de los años 80s. 10 temporadas seguidas promediando cifras dobles en puntos. Campeón 1984, 85 y 86.",
+      "bonus": ""
+    },
+    {
+      "id": 40,
+      "name": "Manolo Prince",
+      "description": "El “Travieso” 40 es Manolo Prince. Es imposible hacer un ranking sin su figura. “Manolito” fue el responsable de llevar el espectáculo del Eugenio al Virgilio. Junto a Pepe Rozón formó una de las parejas más explosivas de la historia. Campeón 1974 y 1976.",
+      "bonus": "¨Manolo se adelantó a su época, tuvieron que pasar muchos años para ver otro jugador que manejara el balón como él.  Su inteligencia estaba muy por arriba de la liga en ese momento¨ Rosty Ledesma, narrador del baloncesto dominicano."
+    },
+    {
+      "id": 41,
+      "name": "Kenny Jones",
+      "description": "El “Travieso” 41 es Kenny Jones. Jugó toda su carrera con San Lázaro, formando un cuarteto brutal con Manolito, Pepe y Hugo. Con apenas 6' 4”, promedió 13.1 puntos y 5.1 rebotes en un torneo repleto de hombres altos poderosos. Fue el primer JMV en 1974.",
+      "bonus": ""
+    },
+    {
+      "id": 42,
+      "name": "Henry Paulino",
+      "description": "El “Travieso” 42 es Henry Paulino. “La Boa” debutó en 1993 con Mauricio Báez e inicia a ser titular en 1996. Desde entonces y hasta 2008 tuvo cifras dobles en puntos en 12 de 13 torneos. Pieza vital en las coronas mauricianas de 1999 y 2000, ganó en 2009 con Barias.",
+      "bonus": ""
+    },
+    {
+      "id": 43,
+      "name": "José (Bombo) Abreu",
+      "description": "Nuestro “Travieso” 43 es José (Bombo) Abreu quien debutó en 1987 con Arroyo Hondo. Entre 1989 y 2000 promedió cifras dobles en puntos en todos los torneos. Su mejor año fue 1999 donde tuvo 18.0 ppj y 5.2 rpj con Villa Duarte. Campeón en 1990 con Arroyo Hondo.",
+      "bonus": ""
+    },
+    {
+      "id": 44,
+      "name": "Juan Miguel Suero",
+      "description": "El “Travieso” 44 es Juan Miguel Suero, único en hacer triple-doble con 30 o más puntos en la historia (12 de julio 2019 contra San Lázaro). Además, es el unico en ganar Más Valioso y Defensa del Año la misma temporada (2018). Campeón con Mauricio Báez 2016 y 2018.",
+      "bonus": "El Fantasma es el único jugador nativo del Mauricio Báez que ha realizado un juego de 20 puntos y 20 rebotes. Los hizo frente a BAMESO en la temporada 2018."
+    },
+    {
+      "id": 45,
+      "name": "Otto Vantroi",
+      "description": "El “Travieso” 45 es Otto Vantroi, quien debuta en 1994 y se retira 2012. Es el líder absoluto de bolas robadas con 379, además terminó con 557 asistencias. Campeón con Villa Francisca (2002), Barias (2009) y Bameso (2011 y 2012).",
+      "bonus": ""
+    },
+    {
+      "id": 46,
+      "name": "Henry Lalane",
+      "description": "Nuestro “Travieso” 46 es Henry Lalane, quien debuta con San Lázaro en 1995 con 16 años y de la mano de Héctor Báez. Junto a Tepo Tapia, son los únicos jugadores con 300 triples anotados. Terminó su carrera como líder con 360. Campeón 1995, 1996, 2005 y 2010",
+      "bonus": ""
+    },
+    {
+      "id": 47,
+      "name": "Amaury Filión",
+      "description": "El “Travieso” 47 es Amaury Filión, versátil jugador santiaguero que debutó en 1997 con Mauricio Báez. Viaja a USA y regresa en el 2000 para ganar el campeonato con Villa Juana. Gana en 2006 con Naco. Sus 16.3 ppj y 7.4 rpj son señal de lo completo de su juego.",
+      "bonus": "Amaury Fillion fue parte del equipo campeón de Huellas del Siglo en la temporada 2010, promedió cifras dobles en los playoffs 14.1 PPJ siendo pieza importante en el campeonato de Cristo Rey."
+    },
+    {
+      "id": 48,
+      "name": "Alberto (Cebollita) Ozuna",
+      "description": "El “Travieso” 48 es Alberto (Cebollita) Ozuna. Quizás el de menor contextura física de este grupo, debutó en 2002 con San Lázaro promediando 14.0 puntos. Tricampeón distrital y MVP de las finales de 2007 y 2011. Uno de 4 jugadores con 500 asistencias en la capital.",
+      "bonus": ""
+    },
+    {
+      "id": 49,
+      "name": "Gerardo Suero",
+      "description": "El “Travieso” 49 es Gerardo Suero, una máquina anotadora que debuta en 2013 con Bameso y en 2016 conduce a su Mauricio Báez al campeonato en su regreso al distrital, también gana en 2018. En 2016 se convierte en el primer dominicano del MB en ser líder en puntos. ",
+      "bonus": "Geraldo Suero fue el MVP de la serie final del 2018 donde el Mauricio Báez venció al Rafael Barias 4-0. En las últimas 4 temporadas nadie ha anotado más puntos que Geraldo Suero en el Superior DN."
+    },
+    {
+      "id": 50,
+      "name": "Julián (Bombo) McKelly",
+      "description": "El 50 de los “Travieso” es Julián (Bombo) McKelly. Jugó para Mauricio Báez desde 1979 al 1987. Campeón 1984, 85 y 86. Su mejor temporada fue la de 1983 donde promedio 14.1 rebotes y 10.9 rebotes.",
+      "bonus": ""
+    }
+  ]
+}
