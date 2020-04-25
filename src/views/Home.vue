@@ -4,7 +4,7 @@
       <div class="col">
         <figure class="figure">
           <img
-            src="/img/00.jpg"
+            src="img/00.jpg"
             class="figure-img img-fluid rounded"
             alt="..."
             style="height:auto;max-width:100%"
