@@ -2,7 +2,7 @@
   <div>
     <b-overlay :show="showoverlay" rounded="sm">
       <div class="container">
-        <h3 class="text-dark bg-light text-left p-3">Galería de Imágenes</h3>
+        <h3 class="text-orange bg-light text-left p-3">Galería de Imágenes</h3>
         <div class="row">
           <div
             class="col-lg-4 col-md-4 col-sm-12"

@@ -1,17 +1,20 @@
 <template>
   <div id="app">
     <div class="fixed-top">
-      <h2 class="bg-info p-4 text-white">
-        Los 50 Traviesos del Virgilio Travieso Soto
+      <h2 class="bg-orange p-4 text-white">
+        “Don Virgilio y sus 50 Traviesos”
       </h2>
     </div>
     <div id="nav">
-      <span><strong>Seleccione Vista: </strong></span>
+      <router-link to="/">Portada</router-link> |
+      <span>Seleccione vista deseada para ver el album: </span>
       <router-link to="/small">Compactas</router-link> |
-      <router-link to="/medium">Normal</router-link> |
+      <router-link to="/medium">Mediana</router-link> |
       <router-link to="/big">Grande</router-link>
     </div>
+    <router-view />
     <div class="p-2">
+      <hr />
       <p class="text-muted">
         <small>
           Selección de los 50 mejores judadores del baloncesto del distrito
@@ -20,9 +23,7 @@
           <span class="badge badge-secondary">Año 2020.</span>
         </small>
       </p>
-      <hr />
     </div>
-    <router-view />
     <div class="fixed-bottom">
       <small class="text-muted"
         >Diseñada por Ely Michael Núñez @2020 Sitcs, EIRL.</small
@@ -39,9 +40,16 @@
   text-align: center;
   color: #2c3e50;
 }
+@media screen and (min-width: 601px) {
+  #nav {
+    margin-top: 90px;
+  }
+}
 
-#nav {
-  margin-top: 90px;
+@media screen and (max-width: 600px) {
+  #nav {
+    margin-top: 125px;
+  }
 }
 
 #nav a {
@@ -50,9 +58,16 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #ff4546;
 }
 .card .card-body a {
   text-decoration: none;
+}
+.bg-orange {
+  background-color: #ff4546;
+}
+
+.text-orange {
+  color: #ff4546;
 }
 </style>

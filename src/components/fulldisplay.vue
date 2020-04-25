@@ -8,7 +8,7 @@
       </div>
       <div class="col-md-6">
         <div class="card-body text-left">
-          <h5 class="card-title text-info">
+          <h5 class="card-title text-orange">
             <strong>{{ item.id }} - {{ item.name }}</strong>
           </h5>
           <p class="card-text">{{ item.description }}</p>
