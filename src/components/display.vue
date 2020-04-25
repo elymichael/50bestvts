@@ -3,9 +3,14 @@
     <img :src="getImage(item.id)" class="card-img-top" alt="..." />
     <div class="card-body">
       <h6 class="card-title">
-        <small>{{ item.id }} - {{ item.name }}</small>
+        <router-link
+          class="stretched-link text-muted"
+          :to="{ name: 'Player', params: { id: item.id } }"
+        >
+          <small>{{ item.id }} - {{ item.name }}</small>
+        </router-link>
       </h6>
-      <p class="card-text" v-if="showdescription">
+      <p class="card-text text-left" v-if="showdescription">
         {{ item.description }}
       </p>
     </div>

@@ -1,13 +1,22 @@
 <template>
   <div>
-    <div class="container" v-if="detail">
-      <fulldisplay :item="detail" :showdescription="Boolean(true)" />
-    </div>
+    <b-overlay :show="showoverlay" rounded="sm">
+      <div class="container" v-if="detail">
+        <div class="text-right">
+          <a class="mr-4" href="javascript:history.go(-1)">Retornar</a>
+        </div>
+        <fulldisplay :item="detail" :showdescription="Boolean(true)" />
+      </div>
+      <template v-slot:overlay>
+        <loading />
+      </template>
+    </b-overlay>
   </div>
 </template>
 <script>
 import { dataconfig } from "@/services//helper.js";
 import fulldisplay from "@/components/fulldisplay.vue";
+import loading from "@/components/loading.vue";
 
 export default {
   name: "player",
@@ -16,7 +25,8 @@ export default {
     detail: {}
   }),
   components: {
-    fulldisplay
+    fulldisplay,
+    loading
   },
   methods: {
     init: function() {
