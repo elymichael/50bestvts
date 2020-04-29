@@ -16,7 +16,7 @@
             <h6 v-if="item.bonus"><b>Información de Bono:</b></h6>
             <blockquote class="blockquote">
               <p v-if="item.bonus" class="card-text">
-                <span class="text-muted">{{ item.bonus }}</span>
+                <small class="text-muted">{{ item.bonus }}</small>
               </p>
               <footer class="blockquote-footer">
                 Fuente: <cite title="Source Title">{{ info.source }}</cite>

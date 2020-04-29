@@ -31,7 +31,7 @@ Vue.mixin({
       this.showoverlay = false;
     },
     getImage: function(id) {
-      return "img/" + id + ".jpg";
+      return require("@/assets/" + id + ".jpg");
     }
   },
   created: async function() {
