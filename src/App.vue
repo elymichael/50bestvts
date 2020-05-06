@@ -24,7 +24,7 @@
         </small>
       </p>
     </div>
-    <div class="fixed-bottom">
+    <div class="fixed-bottom d-block d-print-none">
       <small class="text-muted"
         >Diseñada por Ely Michael Núñez @2020 Sitcs, EIRL.</small
       >
