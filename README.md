@@ -3,7 +3,7 @@ This projects store the list of the 50 best basketball players in the history (l
 
 The project was worked in the following technology: Vuejs.
 
-Demo: https://50bestvts.000webhostapp.com/
+Ver [Demo](https://50bestvts.000webhostapp.com/)
 
 ## Project setup
 ```
