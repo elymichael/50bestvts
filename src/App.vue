@@ -1,7 +1,15 @@
 <template>
   <div id="app">
     <div class="fixed-top">
-      <h2 class="bg-orange p-4 text-white">
+      <h2
+        class="p-4 text-white"
+        :style="{
+          background:
+            'url(' +
+            require('@/assets/bg-pattern.png') +
+            '), linear-gradient(to left, #ff4546, #FE5163)'
+        }"
+      >
         “Don Virgilio y sus 50 Traviesos”
       </h2>
     </div>
@@ -62,9 +70,6 @@
 }
 .card .card-body a {
   text-decoration: none;
-}
-.bg-orange {
-  background-color: #ff4546;
 }
 
 .text-orange {
