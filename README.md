@@ -1,7 +1,7 @@
 # 50bestvts
 This projects store the list of the 50 best basketball players in the history (last 46 years) of the Virgilio Travieso Soto en Santo Domingo, Dominican Republic. This project was worked based in the cancha entera's work and we published the list in the internet.
 
-The project was worked in the following technology: **Vuejs**.
+The project was worked in the following libraries: **Vuejs**, **Bootstrap**.
 
 ![cover](./src/assets/coverpage.png)
 
