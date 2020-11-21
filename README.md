@@ -3,7 +3,7 @@ This projects store the list of the 50 best basketball players in the history (l
 
 The project was worked in the following libraries: **Vuejs**, **Bootstrap**.
 
-![cover](./src/assets/coverpage.png)
+![cover](https://github.com/elymichael/50bestvts/blob/master/public/img/coverpage.png)
 
 Ver [Demo](https://50bestvts.000webhostapp.com/)
 
